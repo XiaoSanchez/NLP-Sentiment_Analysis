@@ -1,6 +1,6 @@
-# NLP: Sentiment_Analysis
+# NLP: Sentiment Analysis
 
-Sentiment Analysis is the project taht create a pipeline to remove stop-words, punctuation, and perform tokenization. Train a Naive Bayes Classifier then assess trained model performance.
+Sentiment Analysis is the project that create a pipeline to remove stop-words, punctuation, and perform tokenization. Train a Naive Bayes Classifier then assess trained model performance.
 ## Features
 - Understand the concept of count vectorization (tokenization)
 - Perform tokenization to tweet text using Scikit Learn
